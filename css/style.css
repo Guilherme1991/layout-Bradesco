@@ -2,7 +2,7 @@
 body{background-color: black;}
 .navegacao{background-color: black;}
 footer{width: 100%; background-color: black;}
-section{ width: 100%; height: 700px;background-image: url("../img/imagem-1.jpg"); background-repeat: no-repeat; background-size: 1400px;}
+section{ width: 100%; height: 700px;background-image: url("../img/imagem-1.jpg"); background-repeat: no-repeat; background-size: cover;}
 .procura{position: relative; top: 200px;}
 .procura input{height: 50px; width: 400px; margin-right: 10px; font-size: 25px; border: 2px solid black;}
 .procura h2{margin-bottom: 50px; font-family: 'Anton', sans-serif; color: white; font-size: 45px; letter-spacing:5px;}
